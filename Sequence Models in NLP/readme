@@ -1,0 +1,9 @@
+Statistical NLP
+
+PART - I
+Sq NLP - Project 1.pdf
+Text classification model that 	analyses the customer's sentiments based on their reviews in the IMDB database
+
+PART - II
+Sq NLP - Project 2.pdf
+Build a model to detect whether a sentence is sarcastic or not, using Bidirectional LSTMs.
