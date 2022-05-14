@@ -1,5 +1,5 @@
 # ML-AI-projects
-**1) Capastone Project**
+**1) Capstone Project**
 (Advanced CNN and Sequential NLP)
 
 create a solution for this problem by auto-generating these clinical diagnostic reports by applying the convolutional layers and sequence-to-sequence NLP modeling concepts. The model learns from the historical MRI images of the Lumbar Spine along with their corresponding clinical notes for 510 patients 
